@@ -19,5 +19,8 @@
   "homepage": "https://github.com/silvioclipper/miragejs#readme",
   "devDependencies": {
     "miragejs": "^0.1.33"
+  },
+  "dependencies": {
+    "vue": "^2.6.11"
   }
 }
