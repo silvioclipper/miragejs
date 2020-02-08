@@ -1,0 +1,23 @@
+{
+  "name": "miragejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvioclipper/miragejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvioclipper/miragejs/issues"
+  },
+  "homepage": "https://github.com/silvioclipper/miragejs#readme",
+  "devDependencies": {
+    "miragejs": "^0.1.33"
+  }
+}
